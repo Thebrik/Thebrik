@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debrik Chakraborty</h1>
 <h3 align="center">A passionate Cyber Security student from India</h3>
-<p align="center">
-  <img src="https://tryhackme.com/badge/1882198" alt="TryHackMe Badge">
-</p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Debrik.png" alt="TryHackMe">
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
