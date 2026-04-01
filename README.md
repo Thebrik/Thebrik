@@ -38,4 +38,4 @@
 - Linux, Networking
 
 ## 🔗 More Writeups
-👉 https://medium.com/@debrikchakraborty200
+👉 [Read all my writeups on Medium](https://medium.com/@yourname)
