@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Debrik Chakraborty</h1>
-<h3 align="center">A passionate Cyber Security student from India</h3>
+<h3 align="center">Cybersecurity enthusiast | Top 5% on TryHackMe | 75+ CTFs solved</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Debrik.png" alt="Your Image Badge" />
 
 
-### Blogs posts
+### Featured Writeups
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/@debrikchakraborty200/mr-robot-a-walkthrough-write-up-a9e0480c0d59
-https://medium.com/@debrikchakraborty200/sql-injection-lab-a-tryhackme-writeup-9fa2707f7c3a
+- [Mr Robot Walkthrough](https://medium.com/@debrikchakraborty200/mr-robot-a-walkthrough-write-up-a9e0480c0d59)
+- [SQL Injection Lab](https://medium.com/@debrikchakraborty200/sql-injection-lab-a-tryhackme-writeup-9fa2707f7c3a)
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -23,12 +23,17 @@ https://medium.com/@debrikchakraborty200/sql-injection-lab-a-tryhackme-writeup-9
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
+  
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
  
   </a>
-</p>
+</p> -->
 
+### Tools & Skills:
+- Burp Suite, Nmap, Metasploit
+- Web Security (XSS, SQL Injection, IDOR)
+- Linux, Networking
+
+## 🔗 More Writeups
+👉 https://medium.com/@debrikchakraborty200
