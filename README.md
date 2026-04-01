@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debrik Chakraborty</h1>
 <h3 align="center">Cybersecurity enthusiast | Top 5% on TryHackMe | 75+ CTFs solved</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Debrik.png" alt="Your Image Badge" />
+<!-- <img src="https://tryhackme-badges.s3.amazonaws.com/Debrik.png" alt="Your Image Badge" /> -->
 
 
 ### Featured Writeups
