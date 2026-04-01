@@ -7,6 +7,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Mr Robot Walkthrough](https://medium.com/@debrikchakraborty200/mr-robot-a-walkthrough-write-up-a9e0480c0d59)
 - [SQL Injection Lab](https://medium.com/@debrikchakraborty200/sql-injection-lab-a-tryhackme-writeup-9fa2707f7c3a)
+- [Blaster Walkthrough](https://medium.com/@debrikchakraborty200/blaster-a-tryhackme-walkthrough-ef101e59dcab)
+- [Pyrat Walkthrough](https://medium.com/@debrikchakraborty200/pyrat-a-tryhackme-writeup-52a36f6438fa)
 <!-- BLOG-POST-LIST:END -->
 <!--
 <h3 align="left">Languages and Tools:</h3>
