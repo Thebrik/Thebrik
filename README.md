@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity enthusiast | Top 5% on TryHackMe | 75+ CTFs solved</h3>
 <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/Debrik.png" alt="Your Image Badge" /> -->
 
-[Portfolio]([Portfolio](https://green-restaurant-3d6.notion.site/Debrik-Chakrborty-a89167748f0382b0b12e812637c6a1ea))
+[Portfolio]([Portfolio](https://green-restaurant-3d6.notion.site/Debrik-Chakrborty-a89167748f0382b0b12e812637c6a1ea)
 
 ### Featured Writeups
 <!-- BLOG-POST-LIST:START -->
