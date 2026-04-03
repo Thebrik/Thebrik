@@ -38,6 +38,6 @@
 - Linux, Networking
 
 ## 🔗 More Writeups
-👉 [Read all my writeups on Medium]([https://medium.com/@yourname](https://medium.com/@debrikchakraborty200))
+👉 [Read all my writeups on Medium](https://medium.com/@debrikchakraborty200)
 
 👉 [Read all my writeups on Notion](https://green-restaurant-3d6.notion.site/CTF-Rooms-Writeups-148167748f0380aaa67bf7c26ffab2d4?source=copy_link)
