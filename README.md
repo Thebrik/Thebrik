@@ -9,7 +9,7 @@ Building secure applications while continuously learning cloud and cybersecurity
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&lines=Graduate+Apprentice;Angular+Developer;ASP.NET+Core+Web+API+Developer;Top+5%25+on+TryHackMe;75%2B+CTFs+Solved;AZ-900+Certified;Cybersecurity+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&lines=Full+Stack+Developer;Angular+Developer;ASP.NET+Core+Web+API+Developer;Top+5%25+on+TryHackMe;75%2B+CTFs+Solved;AZ-900+Certified;Cybersecurity+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
