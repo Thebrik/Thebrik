@@ -9,7 +9,31 @@ Building secure applications while continuously learning cloud and cybersecurity
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Graduate+Apprentice;Angular+Developer;ASP.NET+Core+Web+API+Developer;Microsoft+Azure+Fundamentals+(AZ-900);Top+5%25+on+TryHackMe;75%2B+CTFs+Solved;Cybersecurity+Enthusiast;Always+Learning+e Apprentice
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=900&lines=Graduate+Apprentice;Angular+Developer;ASP.NET+Core+Web+API+Developer;Top+5%25+on+TryHackMe;75%2B+CTFs+Solved;AZ-900+Certified;Cybersecurity+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Thebrik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.credly.com/badges/a16ec15a-b145-45e6-b0ec-ddc7e729e3d0/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/AZ--900-Certified-0089D6?style=flat&logo=microsoftazure&logoColor=white" alt="AZ-900" />
+  </a>
+  <a href="https://tryhackme.com/p/Debrik" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%205%25-red?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://www.linkedin.com/in/debrik-chakraborty-aa5293231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Debrik Chakraborty
+
+Current Role:
+  - Graduate Apprentice
 
 Interests:
   - Full Stack Development
@@ -50,103 +74,85 @@ Achievements:
 
 ---
 
-# 🌐 Portfolio
+## 🌐 Portfolio & Profiles
 
-### 🔗 Portfolio
-
-https://green-restaurant-3d6.notion.site/Debrik-Chakrborty-a89167748f0382b0b12e812637c6a1ea
+<p align="center">
+  <a href="https://green-restaurant-3d6.notion.site/Debrik-Chakrborty-a89167748f0382b0b12e812637c6a1ea" target="_blank">🌐 Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/debrik-chakraborty-aa5293231/" target="_blank">💼 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://tryhackme.com/p/Debrik" target="_blank">🎯 TryHackMe</a> &nbsp;•&nbsp;
+  <a href="https://medium.com/@debrikchakraborty200" target="_blank">✍️ Medium</a>
+</p>
 
 ---
 
-# 🏅 Certifications
+## 🏅 Certifications
 
-✅ Microsoft Azure Fundamentals (AZ-900)
+<p align="center">
+  <a href="https://www.credly.com/badges/a16ec15a-b145-45e6-b0ec-ddc7e729e3d0/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9d3d-e97819533efa/image.png" alt="AZ-900 Badge" width="130" />
+  </a>
+</p>
 
-✅ Top 5% TryHackMe Ranking
+<p align="center">
+✅ <b>Microsoft Certified: Azure Fundamentals (AZ-900)</b> — <a href="https://www.credly.com/badges/a16ec15a-b145-45e6-b0ec-ddc7e729e3d0/public_url" target="_blank">View Credential</a>
+</p>
+
+✅ Top 5% Ranking on [TryHackMe](https://tryhackme.com/p/Debrik)
 
 ✅ Practical Experience in Secure Application Development
 
 ---
 
-# 💼 Featured Project
-
-## ProTech Suite
+## 💼 Featured Project — ProTech Suite
 
 A web-based Project Management System developed using Angular, ASP.NET Core Web API, SQL Server, and modern security practices.
 
-### Key Features
+**Key Features**
 
-✅ Authentication & Authorization
+- ✅ Authentication & Authorization
+- ✅ JWT-Based Security
+- ✅ Role-Based Access Control
+- ✅ Project Management
+- ✅ Proposal Management
+- ✅ Employee Dashboard
+- ✅ Secure API Communication
+- ✅ Pagination & Filtering
+- ✅ Entity Framework Core Integration
+- ✅ SQL Server Database Management
 
-✅ JWT-Based Security
+**Security Highlights**
 
-✅ Role-Based Access Control
-
-✅ Project Management
-
-✅ Proposal Management
-
-✅ Employee Dashboard
-
-✅ Secure API Communication
-
-✅ Pagination & Filtering
-
-✅ Entity Framework Core Integration
-
-✅ SQL Server Database Management
-
-### Security Highlights
-
-🔐 JWT Authentication
-
-🔐 RSA Encryption
-
-🔐 BCrypt Password Hashing
-
-🔐 Role-Based Authorization
-
-🔐 Secure REST APIs
+🔐 JWT Authentication &nbsp;|&nbsp; 🔐 RSA Encryption &nbsp;|&nbsp; 🔐 BCrypt Password Hashing &nbsp;|&nbsp; 🔐 Role-Based Authorization &nbsp;|&nbsp; 🔐 Secure REST APIs
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+**Languages**
 
-<p align="left">
-?i=cs,java,python,js,ts" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,java,python,js,ts" alt="Languages" />
 
-## Frontend
+**Frontend**
 
-<p align="left">
-https://skillicons.dev/icons?i=angular,html,css,bootstrap
-</p>
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" alt="Frontend" />
 
-## Backend
+**Backend**
 
-<p align="left">
-ons.dev/icons?i=dotnet" />
-</p>
+<img src="https://skillicons.dev/icons?i=dotnet" alt="Backend" />
 
-## Database
+**Database**
 
-<p align="left">
-.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
 
-## Tools & Platforms
+**Tools & Platforms**
 
-<p align="left">
-licons.dev/icons?i=git,github,vscode,visualstudio,linux,windows,azure" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,windows,azure" alt="Tools" />
 
 ---
 
-# 🔐 Cybersecurity
+## 🔐 Cybersecurity
 
-### Areas of Interest
+**Areas of Interest**
 
 - Web Application Security
 - Penetration Testing
@@ -157,7 +163,7 @@ licons.dev/icons?i=git,github,vscode,visualstudio,linux,windows,azure" />
 - Authentication & Authorization Testing
 - OWASP Top 10
 
-### Security Tools
+**Security Tools**
 
 - Burp Suite
 - Nmap
@@ -166,86 +172,73 @@ licons.dev/icons?i=git,github,vscode,visualstudio,linux,windows,azure" />
 - Gobuster
 - Linux
 
----
-
-# ✍️ Featured Writeups
-
-### 📝 Mr Robot Walkthrough
-
-https://medium.com/@debrikchakraborty200/mr-robot-a-walkthrough-write-up-a9e0480c0d59
-
-### 📝 SQL Injection Lab
-
-https://medium.com/@debrikchakraborty200/sql-injection-lab-a-tryhackme-writeup-9fa2707f7c3a
-
-### 📝 Blaster Walkthrough
-
-https://medium.com/@debrikchakraborty200/blaster-a-tryhackme-walkthrough-ef101e59dcab
-
-### 📝 Pyrat Walkthrough
-
-https://medium.com/@debrikchakraborty200/pyrat-a-tryhackme-writeup-52a36f6438fa
+**Verified Ranking:** [Top 5% on TryHackMe](https://tryhackme.com/p/Debrik) &nbsp;|&nbsp; **75+ CTF Challenges Solved**
 
 ---
 
-# 📚 Knowledge Base
+## ✍️ Featured Writeups
 
-## CTF Writeups
+- 📝 [Mr Robot Walkthrough](https://medium.com/@debrikchakraborty200/mr-robot-a-walkthrough-write-up-a9e0480c0d59)
+- 📝 [SQL Injection Lab](https://medium.com/@debrikchakraborty200/sql-injection-lab-a-tryhackme-writeup-9fa2707f7c3a)
+- 📝 [Blaster Walkthrough](https://medium.com/@debrikchakraborty200/blaster-a-tryhackme-walkthrough-ef101e59dcab)
+- 📝 [Pyrat Walkthrough](https://medium.com/@debrikchakraborty200/pyrat-a-tryhackme-writeup-52a36f6438fa)
 
-📖 https://green-restaurant-3d6.notion.site/CTF-Rooms-Writeups-148167748f0380aaa67bf7c26ffab2d4
-
-## Learning Notes
-
-📖 https://green-restaurant-3d6.notion.site/LTM-Training-36a167748f038055b812d0c628bdf797
+🔗 [Read all writeups on Medium](https://medium.com/@debrikchakraborty200)
 
 ---
 
-# 📈 GitHub Stats
+## 📚 Knowledge Base
+
+- 📖 [CTF Writeups (Notion)](https://green-restaurant-3d6.notion.site/CTF-Rooms-Writeups-148167748f0380aaa67bf7c26ffab2d4)
+- 📖 [Learning Notes / LTM Training (Notion)](https://green-restaurant-3d6.notion.site/LTM-Training-36a167748f038055b812d0c628bdf797)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  ://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thebrik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  ://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thebrik&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.appangs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thebrik&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercelname=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7
+  <img src="https://github-profile-trophy.vercel.app/?username=Thebrik&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
-### GitHub
-
-https://github.com/YOUR_USERNAME
-
-### Medium
-
-https://medium.com/@debrikchakraborty200
-
-### Portfolio
-
-https://green-restaurant-3d6.notion.site/Debrik-Chakrborty-a89167748f0382b0b12e812637c6a1ea
-
-### LinkedIn
-
-Add your LinkedIn profile here
+<p align="center">
+  <a href="https://www.linkedin.com/in/debrik-chakraborty-aa5293231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@debrikchakraborty200" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://tryhackme.com/p/Debrik" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
+  </a>
+  <a href="https://green-restaurant-3d6.notion.site/Debrik-Chakrborty-a89167748f0382b0b12e812637c6a1ea" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio" />
+  </a>
+</p>
 
 ---
 
 <h3 align="center">
-💡 “Learn, Build, Break, Secure, Repeat.”
+💡 "Learn, Build, Break, Secure, Repeat."
 </h3>
 
 <p align="center">
