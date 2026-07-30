@@ -190,7 +190,6 @@ A web-based Project Management System developed using Angular, ASP.NET Core Web 
 ## 📚 Knowledge Base
 
 - 📖 [CTF Writeups (Notion)](https://green-restaurant-3d6.notion.site/CTF-Rooms-Writeups-148167748f0380aaa67bf7c26ffab2d4)
-- 📖 [Learning Notes / LTM Training (Notion)](https://green-restaurant-3d6.notion.site/LTM-Training-36a167748f038055b812d0c628bdf797)
 
 ---
 
